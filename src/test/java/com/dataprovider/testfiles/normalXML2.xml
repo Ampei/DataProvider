@@ -1,0 +1,22 @@
+<dataSet>
+	<name>DataSet</name>
+	<dataRows>
+		<dataRow>
+			<name>DataRow1</name>
+			<dataObjects>
+				<dataObject>
+					<name>DataObject1</name>
+					<value>Value1</value>
+				</dataObject>
+				<dataObject>
+					<name>DataObject2</name>
+					<value>Value2</value>
+				</dataObject>
+				<dataObject>
+					<name>DataObject3</name>
+					<value>Value3</value>
+				</dataObject>                                
+			</dataObjects>
+		</dataRow>
+	</dataRows>
+</dataSet>

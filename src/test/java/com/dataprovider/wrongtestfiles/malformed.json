@@ -1,0 +1,15 @@
+{"name":"WikiSearch", 
+    "dataRows":[
+                {"name":
+                        [{"name":"criteria","value":"Ampei"},
+                         {"name":"ExpectedResult","value":"Ampei"}
+                        ]
+                },
+                {"name":
+                        [{"name":"criteria","value":"Buenos Aires"},
+                         {"name":"ExpectedResult","value":"Buenos Aires"}
+                        ]
+                }
+                
+               ]
+}

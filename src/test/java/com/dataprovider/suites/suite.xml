@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Smoke test suite" verbose="1">
+	<test name="XMLDataLoaderTest">
+		<classes>
+			<class name="com.dataprovider.loaders.DataLoaderTest"/>
+		</classes>
+	</test>
+</suite>

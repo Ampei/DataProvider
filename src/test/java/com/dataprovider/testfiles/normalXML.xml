@@ -1,0 +1,31 @@
+<dataSet>
+	<name>WikiSearch</name>
+	<dataRows>
+		<dataRow>
+			<name>Ampei</name>
+			<dataObjects>
+				<dataObject>
+					<name>criteria</name>
+					<value>Ampei</value>
+				</dataObject>
+				<dataObject>
+					<name>ExpectedResult</name>
+					<value>Ampei</value>
+				</dataObject>
+			</dataObjects>
+		</dataRow>
+		<dataRow>
+			<name>Buenos Aires</name>
+			<dataObjects>
+				<dataObject>
+					<name>criteria</name>
+					<value>Buenos Aires</value>
+				</dataObject>
+				<dataObject>
+					<name>ExpectedResult</name>
+					<value>Buenos Aires</value>
+				</dataObject>
+			</dataObjects>
+		</dataRow>
+	</dataRows>
+</dataSet>

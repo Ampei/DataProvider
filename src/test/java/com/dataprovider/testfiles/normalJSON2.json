@@ -1,0 +1,10 @@
+{"name":"DataSet", 
+    "dataRows":[
+                {"name":"DataRow1","dataObjects":
+                        [{"name":"DataObject1","value":"Value1"},
+                         {"name":"DataObject2","value":"Value2"},
+                         {"name":"DataObject3","value":"Value3"}
+                        ]
+                }                
+               ]
+}
